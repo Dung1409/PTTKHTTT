@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/src/java/Model/Product.java</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/web/View/OrderProductView.jsp</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/src/java/Model/Order.java</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/src/java/Controller/OrderProductView.java</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/web/css/Login.css</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/src/java/DAO/ProductDAO.java</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/src/java/Controller/UpdateProductView.java</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/src/java/Controller/ShoppingCartView.java</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/web/View/UpdateProductView.jsp</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/web/View/Login.jsp</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/src/java/Controller/UpdateDetailProduct.java</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/web/css/ShoppingCartView.css</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/web/View/CustomerMainView.jsp</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/src/java/Controller/ProductView.java</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/web/View/UpdateDetailProduct.jsp</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/src/java/DAO/ShoppingCartDAO.java</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/src/java/DAO/OrderDAO.java</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/web/css/CustomerMainView.css</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/web/View/ProductView.jsp</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/src/java/Controller/LoginServlet.java</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/web/View/ShoppingCartView.jsp</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/src/java/Model/OrderProduct.java</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/src/java/Model/Receiver.java</file>
+            <file>file:/D:/LTM/PRJ/BTL_LTM/PTTKHTTT/web/css/ProductView.css</file>
+        </group>
+    </open-files>
+</project-private>
